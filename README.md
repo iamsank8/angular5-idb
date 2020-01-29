@@ -1,3 +1,6 @@
+# Development Setup
+You need to setup angular development to use this project.
+
 # MyAngularProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
